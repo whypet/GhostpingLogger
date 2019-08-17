@@ -1,6 +1,8 @@
 # GhostpingLogger - the bot that logs ghostpings
 discord bot that logs ghostpings.
 
+
+
 # how do work
 it detects message edit and message delete events that previously had a mentionned user
 
