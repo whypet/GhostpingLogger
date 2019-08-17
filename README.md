@@ -17,3 +17,6 @@ database so you might need to host multiple.
 
 # can i fork it
 yes of course and if you do i'd recommend implementing an SQL database for it.
+
+# programming language?
+C#, Microsoft .NET Core
